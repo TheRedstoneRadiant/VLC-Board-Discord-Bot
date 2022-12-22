@@ -1,6 +1,11 @@
 {
   "dependencies": {
+    "canvas": "^2.10.2",
     "discord.js": "^14.7.1",
     "mongodb": "^4.13.0"
+  },
+  "scripts": {
+    "dev": "env $(cat .env) node .",
+    "start": "npm run dev"
   }
 }
