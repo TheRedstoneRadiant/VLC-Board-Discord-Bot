@@ -96,7 +96,7 @@ let oldPixelArray;
 
 const sendImage = async () => {
     const board = await boardCollection.findOne({ _id: "latestBoard" });
-    if (board.pixelArray == oldPixelArray) {
+    if (JSON.stringify(board.pixelArray) == JSON.stringify(oldPixelArray)) {
         return;
     }
 
