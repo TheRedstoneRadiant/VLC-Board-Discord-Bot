@@ -1,4 +1,7 @@
-This is a Discord Bot to send snapshots of the Canvas from [VLC Board](https://github.com/TheRedstoneRadiant/VLC-Board) every 5 minutes.
+# VLC-Board Discord Bot
+
+#### This is a Discord Bot to send snapshots of the Canvas from [VLC Board](https://github.com/TheRedstoneRadiant/VLC-Board) every 5 minutes.
+
 ![image](https://github.com/TheRedstoneRadiant/VLC-Board-Discord-Bot/assets/76220359/49482a31-8526-4012-b7cf-77a47961ba12)
 
 # Setup
